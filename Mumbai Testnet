@@ -1,0 +1,11 @@
+{
+ "name": "Mumbai Testnet"
+ "network": "Testnet",
+"rpc": [
+"https://matic-mumbai.chainstacklabs.com "
+"Currency Symbol": {
+    "name": "MATIC",
+    "symbol": "ETH"
+"chain": "80001",
+   "bridges": [ {"url":"https://mumbai.polygonscan.com"} ]
+   }
